@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act anent those who are or shall be found fugitives and run-awayes from their companies and colours</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43918</idno><idno type="EEBO-CITATION">690988945</idno>
+  <idno type="VID">211685</idno>
+  <idno type="EEBO-PROQUEST">2240865596</idno>
+  
+            <idno type="OCLC"> 690988945</idno>
+            <idno type="OCLC">ocn 690988945</idno>
+            <idno type="STC">Wing S1052</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211685)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2984:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act anent those who are or shall be found fugitives and run-awayes from their companies and colours</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By Evan Tyler, printer to the Kings most excellent Majestie,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>anno Dom. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Military deserters --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:211685:1"/>
+            <pb facs="tcp:211685:2"/>
+            <head>Act anent these who are or shall be found Fugitives and Run-awayes from their Companies and Colours.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE ESTATES OF PARLIAMENT presently conveened by vertue of the last Act of the last Parliament, holden by His Majestie and three Estates, in <hi>Anno</hi> 1641. Taking to their consideration the great prejudice and danger which may arise to the Armies raised and to be raised, for defence of Religion, Liberties, and Kingdomes, by reason of some, who having gone or shall go out with the saids Armies, have run away, or may hereaf<g ref="char:EOLhyphen"/>ter run away from their Companies and Colours. For remedy whereof, It is statute and ordained, that all those both of Horse and Foot, who shall run away from their Companies and Colours, without a Passe, shall be apprehended by the Colonels and Committees of War within ilk Shire and Division, Captains of Parochines, or Magistrates with<g ref="char:EOLhyphen"/>in Burgh where they dwell, and others whom they shall appoint for that effect, where-ever they can be found, and sent again with all diligence to their Company and Colours, upon the publick charge, which is to be advanced by the Col<g ref="char:EOLhyphen"/>lectors of the Excise, and allowed in their compts; There to be punished conform to the Articles of Military Disci<g ref="char:EOLhyphen"/>pline: Or else that the Committees of Warre, and Colonels within ilk Shire, and Magistrates within Burgh (if they think it expedient for the good of the Armies, and terrifying others from running away in like manner) decimate the saids Fugitives, both Horse and Foot, being appre<g ref="char:EOLhyphen"/>hended, and cause hang the tenth man of them, and escheat their goods for the use of the Publick: And if there be but one or more of them with<g ref="char:EOLhyphen"/>in tenne, to cause hang one of them, albeit there be but one, and cause send the rest of the saids Fugitives, Horse and Foot, to the Committee of Estates at Edinburgh, upon the expences of the Publick, as is aforesaid, to be sent back to their Colours, in manner as the said Committee shall think fit. And because the resetting and entertaining of the saids Fugit<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ves, imbolds and incourages them to keep themselves still lurking, and incourages others by their example to run away; Therefore it is statute <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ordained, that whosoever shall keep, reset, or entertaine the saids Fugitives, Horse or Foot, or shall have knowledge of their being within their bounds, and shall not delate and deliver them to the said Commit<g ref="char:EOLhyphen"/>tee, Colonels of Shires, Captains of Parochines, or Magistrates within Jurgh, with all possible diligence; then the saids Resetters or Concealers, shall be repute &amp; estimate as dis-affected, &amp; Enemies to Religion, their Countrey, and the Cause presently in hand, and shall be accordingly pu<g ref="char:EOLhyphen"/>nished by the Committee of Estates, or Committees and Colonels of Warre where they dwell, or Magistrates within Burgh, and shall be lyable in the summe of five hundreth Merks for every Horse-man, and one hundreth pounds for every Foot-man they shall be found to have reset in manner foresaid: The one half whereof shall be imployed for the use of the Publick, and the other half of the famine shall pertain to whatsoever Persons that shall delate the foresaids Persons, Resetters, and Entertaners, and who shall qualifie the foresaid Reset and Entertainment; To whom the saids Estates promiseth hereby to grant and dispone, and by hir presents grants and dispones the present right of the same. And if the Committees and Colonels of Warre within each Division, or any pers<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n being thereupon, Captains of Parochines, or Magistrates within Burgh, shall be negligent in taking order with the foresaids Fugitives and Run-<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wayes from their Colours, and with their Resetters and Entertainers, or shall delay and be deficient in putting of this Act to execution, after the forme and tenor thereof: ilk Person of the saids Committees of Warre, Colonels, and Captains of Parochines, and Magistrates within Burgh, hall pay the summe of five hundreth Merks, for ilk failʒie, <hi>toties quoties;</hi> the one half of which Fyne shall pertain to the Publick, and the other half thereof to the Persons delaters. And also it is statute and ordained, that if it come to the knowledge of any Person, who have or shall happn hereafter to out-reach Souldiers on Horse or Foot, that these out-reach<g ref="char:EOLhyphen"/>ed by them are disbanded and fled from their Colours, the saids out-p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tters of them shall be obliged to search, seek, and apprehend the saids Fu<g ref="char:EOLhyphen"/>gitives through their whole Bounds and Lands, within whatsoever P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roch or Burgh the saids out-putters dwells, and shall either apprehend and appresent them to the Committee and Colonels of the Shire, Captains of Parochines, or Magistrates within Burgh, that order may be ta<g ref="char:EOLunhyphen"/>ken with them, conform to the tenour of this present Act. Or else if th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y be without their own proper Lands, to require the Heritor, Bailie, or Of<g ref="char:EOLhyphen"/>ficer who hath charge of their affairs, to produce the Fugitives delat<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by them to be within their Bounds, before the Committee of the Shire: Or otherwise to assist the saids out-putters, in searching and apprehending the saids Fugitives, as they will be answerable within the Bounds fore<g ref="char:EOLhyphen"/>saids. And if the saids out-putters and others, shall be negligent t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> do their exact diligence therein, the saids out-putters shall be obliged to make up their number, by out putting of men in their places, sufficently provided in Arms, and others necessaries, upon the saids out-putters own expences, and the Fugitives themselves to be searched, apprehe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ded, and punished, as said is. And it is statute and ordained also, that the Captains of Parochines, who shall apprehend the saids Fugitives, or Magistrates within Burgh, shall produce the saids Fugitives before the Com<g ref="char:EOLhyphen"/>mittee of Warre within their Bounds, at the next meeting of the said <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mmittee, under the pains to be punished and censured as Resetters. And it is ordained likewise, That the Magistrates of Burghs, within whose Bounds the saids Fugitives shall be apprehended, shall receive the saids Fu<g ref="char:EOLhyphen"/>gitives from the said Committee, to be keeped by them in firmance, upon the charge of the Publick, to be advanced forth of the Excise, and with all diligence to be sent to the Committee of Estates at Edinburgh. Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eas it is statute and ordained, that this present Act shall be extended against all Resetters, Fugitives, Committees of Warre, Colonels, Captains, and Magistrates of Burgh, and others foresaids, for any reset or neglect of the discharge of their duty <hi>respective</hi> above-written, in any time coming, after the publication of thir presents, as well for Run-awayes and Fu<g ref="char:EOLhyphen"/>gitives, who have run away in any time by-gone, from any of the Arnies levyed heretofore within this Kingdome for this common Cause, as for these who shall be levyed and run away in time coming. And ordains this present Act to be printed▪ and a Copie thereof to be sent to eve<g ref="char:EOLhyphen"/>ry Paroch Kirk, and every Committee of Warre, and every Burgh within ilk Division within this Kingdome, and that it be read at ilk Paroch Kirk, upon the first Sunday after the receipt hereof, and thereafter fixt on the Kirk door, or wall, to be read by every Person, that none pretend ignorance. And farther, lest the Fugitives that shall run away, as said is, might be suffered to lurk and escape unpunished: It is statute and ordai<g ref="char:EOLhyphen"/>ned, That no stranger shall be received within any Parish or Shire, who shall not have a Passe fro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> some Colonell, or a Testimoniall from the Minister and Session from whence they come, and who shall reset any such Person without Passe or Testimoniall, and shall not delate them, shall incurre the punishment of Resetters of Fugitives. And Ordains the Committee to be appoint<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by the Estates, to see the whole Heads and Ar<g ref="char:EOLhyphen"/>ticles of the Act foresaid put to a full execution.</p>
+            <closer>
+               <signed>Cler. Registri.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at Edinburgh by <hi>Evan Tyler,</hi> Printer to the Kings most E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cellent Majestie, Anno Dom. 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
